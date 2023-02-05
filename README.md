@@ -8,3 +8,4 @@ The use of a forEach loop to render numerous button views was also learned and p
 
 Working demo : 
 
+https://user-images.githubusercontent.com/68183759/216829629-b40147a3-3ff5-449a-9952-aaf311d98983.mov
